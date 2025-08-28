@@ -1,4 +1,4 @@
-# SnapChef 🍳
+# SnapChef
 
 An AI-powered mobile app that transforms your ingredients into delicious recipes using Google Cloud Vision API and machine learning.
 
@@ -6,7 +6,7 @@ An AI-powered mobile app that transforms your ingredients into delicious recipes
 ![Expo](https://img.shields.io/badge/Expo-SDK%2049-green)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.3.2-38B2AC)
 
-## ✨ Features
+## Features
 
 - **AI-Powered Ingredient Detection**: Uses Google Cloud Vision API to automatically identify ingredients from photos
 - **Smart Recipe Generation**: Generates personalized recipes based on detected ingredients
@@ -16,7 +16,7 @@ An AI-powered mobile app that transforms your ingredients into delicious recipes
 - **Modern UI**: Beautiful, intuitive interface built with TailwindCSS
 - **Demo Mode**: Works out-of-the-box for testing without API setup
 
-## 🚀 How It Works
+## How It Works
 
 1. **Snap Photos**: Take clear photos of your ingredients or select from gallery
 2. **AI Analysis**: Google Cloud Vision API analyzes images to detect food items
@@ -24,7 +24,7 @@ An AI-powered mobile app that transforms your ingredients into delicious recipes
 4. **Recipe Generation**: Get personalized recipe suggestions based on your ingredients
 5. **Detailed Results**: View recipes with cooking times, missing ingredients, and confidence scores
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend**: React Native with Expo
 - **Styling**: TailwindCSS with NativeWind
@@ -33,13 +33,13 @@ An AI-powered mobile app that transforms your ingredients into delicious recipes
 - **State Management**: React Hooks
 - **Navigation**: React Navigation
 
-## 📱 Screenshots
+## Screenshots
 
 - **Home Screen**: Camera and gallery integration with ingredient analysis
 - **Review Screen**: Display detected ingredients with confidence scores
 - **Results Screen**: Categorized recipes with detailed information
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -70,7 +70,7 @@ An AI-powered mobile app that transforms your ingredients into delicious recipes
    - **iOS**: Press `i` in terminal or scan QR code with Camera app
    - **Android**: Press `a` in terminal or scan QR code with Expo Go app
 
-## 🔑 API Setup (Optional)
+## API Setup
 
 ### Google Cloud Vision API
 
@@ -160,7 +160,7 @@ npx expo build:ios
 npx expo build:android
 ```
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -168,25 +168,25 @@ npx expo build:android
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Google Cloud Vision API for image analysis
 - Spoonacular for recipe data
 - React Native community for the amazing framework
 - Expo team for the development platform
 
-## 📞 Support
+## Support
 
 For support or questions:
 - Open an issue in this repository
 - Check [Expo documentation](https://docs.expo.dev/)
 - Review [React Native docs](https://reactnative.dev/)
 
-## 🚀 Roadmap
+## Roadmap
 
 - [ ] User authentication and recipe history
 - [ ] Offline recipe storage
@@ -198,8 +198,7 @@ For support or questions:
 
 ---
 
-**SnapChef** - Turn your ingredients into culinary inspiration! 🍽️
-
-Made with ❤️ by [pagarap57](https://github.com/pagarap57)
+**SnapChef** - Turn your ingredients into culinary inspiration!
+ [pagarap57](https://github.com/pagarap57)
 
 
